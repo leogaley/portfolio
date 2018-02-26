@@ -1,4 +1,4 @@
-### ABOUT ME
+## ABOUT ME
 
 Thanks for visiting my portfolio!  I am new to web development and really enjoying learning how front end and back end technologies work together.  My favorite projects to work on are those where I can take a pragmatic approach to utilizing technology to support business needs.  In other words, problem solving and business analysis is the driver for what technologies to use.<br><br>Since 2013 I have been working to try and create a very efficient and customized ERP system (Netsuite) for KC Store Fixtures.  That includes the creation of hundreds of scripts, workflows, searches, and other customizations that are guided by business rules. <br> <br>
 
