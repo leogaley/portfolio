@@ -53,10 +53,10 @@ hr.star-light {
 }
 
 .img-project {
-  border-radius:5%;
+  border-radius:3%;
   overflow:hidden;
   border-style: solid;
-  border-width: 5px;
+  border-width: 3px;
   border-color: #A9B7C0;
 }
 
